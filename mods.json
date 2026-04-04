@@ -56,10 +56,6 @@
     "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/brigo_forge-1.1.1+1.12.x.jar"
   },
   {
-    "name": "censoredasm5.20.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/censoredasm5.20.jar"
-  },
-  {
     "name": "Clumps-3.1.2.jar",
     "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Clumps-3.1.2.jar"
   },
@@ -184,10 +180,6 @@
     "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/HadEnoughItems_1.12.2-4.29.13.jar"
   },
   {
-    "name": "HUDCaching-1.0-REL.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/HUDCaching-1.0-REL.jar"
-  },
-  {
     "name": "ic2-tweaker-0.2.0.jar",
     "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ic2-tweaker-0.2.0.jar"
   },
@@ -198,10 +190,6 @@
   {
     "name": "ironchest-7.1.0.jar",
     "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ironchest-7.1.0.jar"
-  },
-  {
-    "name": "ItemBorders-1.12.2-forge-1.2.0.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ItemBorders-1.12.2-forge-1.2.0.jar"
   },
   {
     "name": "ItemFilters-1.0.3.12.jar",
@@ -224,16 +212,8 @@
     "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/journeymap-1.12.2-5.7.1.jar"
   },
   {
-    "name": "konkrete_forge_1.6.1_MC_1.12-1.12.2.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/konkrete_forge_1.6.1_MC_1.12-1.12.2.jar"
-  },
-  {
     "name": "lazy-ae2-1.12.2-1.1.26.jar",
     "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/lazy-ae2-1.12.2-1.1.26.jar"
-  },
-  {
-    "name": "LegendaryTooltips-1.12.2-1.1.10.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/LegendaryTooltips-1.12.2-1.1.10.jar"
   },
   {
     "name": "libnine-1.12.2-1.2.0.jar",
