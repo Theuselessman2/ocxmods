@@ -1,142 +1,438 @@
 [
   {
-    "name": "appleskin-forge-mc1.20.1-2.5.1.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/appleskin-forge-mc1.20.1-2.5.1.jar"
+    "name": "Advanced+Machines-61.0.1.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Advanced+Machines-61.0.1.jar"
   },
   {
-    "name": "architectury-9.2.14-forge.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/architectury-9.2.14-forge.jar"
+    "name": "advmachinespatch-1.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/advmachinespatch-1.0.jar"
   },
   {
-    "name": "cofh_core-1.20.1-11.0.2.56.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/cofh_core-1.20.1-11.0.2.56.jar"
+    "name": "ae2-uel-v0.56.7.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ae2-uel-v0.56.7.jar"
   },
   {
-    "name": "creeperoverhaul-3.0.2-forge.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/creeperoverhaul-3.0.2-forge.jar"
+    "name": "AE2CT-Legacy-0.1.1.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/AE2CT-Legacy-0.1.1.jar"
   },
   {
-    "name": "curios-forge-5.14.1+1.20.1.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/curios-forge-5.14.1+1.20.1.jar"
+    "name": "ae2fc-2.6.6-r.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ae2fc-2.6.6-r.jar"
   },
   {
-    "name": "geckolib-forge-1.20.1-4.8.3.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/geckolib-forge-1.20.1-4.8.3.jar"
+    "name": "ae2stuff-1.12.2-0.9.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ae2stuff-1.12.2-0.9.jar"
   },
   {
-    "name": "ironfurnaces-1.20.1-4.1.6.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ironfurnaces-1.20.1-4.1.6.jar"
+    "name": "AppleSkin-mc1.12-1.0.14.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/AppleSkin-mc1.12-1.0.14.jar"
   },
   {
-    "name": "Jade-1.20.1-Forge-11.13.2.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Jade-1.20.1-Forge-11.13.2.jar"
+    "name": "base-1.12.2-3.14.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/base-1.12.2-3.14.0.jar"
   },
   {
-    "name": "jei-1.20.1-forge-15.20.0.129.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/jei-1.20.1-forge-15.20.0.129.jar"
+    "name": "bdlib-1.14.4.1-mc1.12.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/bdlib-1.14.4.1-mc1.12.2.jar"
   },
   {
-    "name": "justhammers-forge-2.0.3+mc1.20.1.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/justhammers-forge-2.0.3+mc1.20.1.jar"
+    "name": "beebetteratbees-1.12.2-2.0.3.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/beebetteratbees-1.12.2-2.0.3.jar"
   },
   {
-    "name": "lionfishapi-2.4-Fix.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/lionfishapi-2.4-Fix.jar"
+    "name": "binnie-mods-1.12.2-2.5.1.203.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/binnie-mods-1.12.2-2.5.1.203.jar"
   },
   {
-    "name": "L_Enders_Cataclysm-3.25.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/L_Enders_Cataclysm-3.25.jar"
+    "name": "blockcraftery-1.12.2-1.3.1.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/blockcraftery-1.12.2-1.3.1.jar"
   },
   {
-    "name": "mcef-forge-2.1.6-1.20.1.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/mcef-forge-2.1.6-1.20.1.jar"
+    "name": "BrandonsCore-1.12.2-2.4.18.210.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/BrandonsCore-1.12.2-2.4.18.210.jar"
   },
   {
-    "name": "Mekanism-1.20.1-10.4.16.80.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Mekanism-1.20.1-10.4.16.80.jar"
+    "name": "brigo_forge-1.1.1+1.12.x.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/brigo_forge-1.1.1+1.12.x.jar"
   },
   {
-    "name": "MekanismAdditions-1.20.1-10.4.16.80.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/MekanismAdditions-1.20.1-10.4.16.80.jar"
+    "name": "censoredasm5.20.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/censoredasm5.20.jar"
   },
   {
-    "name": "MekanismGenerators-1.20.1-10.4.16.80.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/MekanismGenerators-1.20.1-10.4.16.80.jar"
+    "name": "Clumps-3.1.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Clumps-3.1.2.jar"
   },
   {
-    "name": "MekanismTools-1.20.1-10.4.16.80.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/MekanismTools-1.20.1-10.4.16.80.jar"
+    "name": "CodeChickenLib-1.12.2-3.2.2.358.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/CodeChickenLib-1.12.2-3.2.2.358.jar"
   },
   {
-    "name": "Quark-4.0-462.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Quark-4.0-462.jar"
+    "name": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/CoFHCore-1.12.2-4.6.6.1-universal.jar"
   },
   {
-    "name": "RegionsUnexploredForge-0.5.6+1.20.1.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/RegionsUnexploredForge-0.5.6+1.20.1.jar"
+    "name": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/CoFHWorld-1.12.2-1.4.0.1-universal.jar"
   },
   {
-    "name": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/resourcefulconfig-forge-1.20.1-2.1.3.jar"
+    "name": "Commons0815-1.12.2-1.3.7.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Commons0815-1.12.2-1.3.7.jar"
   },
   {
-    "name": "StructureCompass-1.20.1-2.2.0.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/StructureCompass-1.20.1-2.2.0.jar"
+    "name": "Computronics-1.12.2-1.6.6.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Computronics-1.12.2-1.6.6.jar"
   },
   {
-    "name": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+    "name": "configanytime-3.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/configanytime-3.0.jar"
   },
   {
-    "name": "thermal_cultivation-1.20.1-11.0.1.24.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/thermal_cultivation-1.20.1-11.0.1.24.jar"
+    "name": "ContainerFix+MC1.12.2+v1.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ContainerFix+MC1.12.2+v1.0.jar"
   },
   {
-    "name": "thermal_expansion-1.20.1-11.0.1.29.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/thermal_expansion-1.20.1-11.0.1.29.jar"
+    "name": "ContentTweaker-1.12.2-4.10.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ContentTweaker-1.12.2-4.10.0.jar"
   },
   {
-    "name": "thermal_foundation-1.20.1-11.0.6.70.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/thermal_foundation-1.20.1-11.0.6.70.jar"
+    "name": "CosmeticArmorReworked-1.12.2-v5a.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/CosmeticArmorReworked-1.12.2-v5a.jar"
   },
   {
-    "name": "thermal_innovation-1.20.1-11.0.1.23.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/thermal_innovation-1.20.1-11.0.1.23.jar"
+    "name": "CraftTweaker2-1.12-4.1.20.693.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/CraftTweaker2-1.12-4.1.20.693.jar"
   },
   {
-    "name": "thermal_integration-1.20.1-11.0.1.27.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/thermal_integration-1.20.1-11.0.1.27.jar"
+    "name": "crafttweakerutils-0.7.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/crafttweakerutils-0.7.jar"
   },
   {
-    "name": "toms_storage-1.20-1.7.1.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/toms_storage-1.20-1.7.1.jar"
+    "name": "CreativeCore_v1.10.14_mc1.12.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/CreativeCore_v1.10.14_mc1.12.2.jar"
   },
   {
-    "name": "travelersbackpack-forge-1.20.1-9.1.53.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/travelersbackpack-forge-1.20.1-9.1.53.jar"
+    "name": "Cucumber-1.1.3.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Cucumber-1.1.3.jar"
   },
   {
-    "name": "tridot-1.20.1-1.0.131.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/tridot-1.20.1-1.0.131.jar"
+    "name": "discord-game-sdk4j-0.5.5.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/discord-game-sdk4j-0.5.5.jar"
   },
   {
-    "name": "ultris-v5.6.9c.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ultris-v5.6.9c.jar"
+    "name": "Draconic-Evolution-1.12.2-2.3.26.193-universal.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Draconic-Evolution-1.12.2-2.3.26.193-universal.jar"
   },
   {
-    "name": "Valoria-1.20.1-1.0.2.10.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Valoria-1.20.1-1.0.2.10.jar"
+    "name": "DragonsRadioMod-2.0.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/DragonsRadioMod-2.0.0.jar"
   },
   {
-    "name": "webdisplays-2.0.2-1.20.1.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/webdisplays-2.0.2-1.20.1.jar"
+    "name": "Durability+Show-1.12-5.0.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Durability+Show-1.12-5.0.0.jar"
   },
   {
-    "name": "xaerominimap-forge-1.20.1-25.3.10.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/xaerominimap-forge-1.20.1-25.3.10.jar"
+    "name": "ElevatorMod-1.12.2-1.3.14.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ElevatorMod-1.12.2-1.3.14.jar"
   },
   {
-    "name": "Zeta-1.0-31.jar",
-    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Zeta-1.0-31.jar"
+    "name": "emoticons-1.1.2-1.12.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/emoticons-1.1.2-1.12.2.jar"
+  },
+  {
+    "name": "EnderCore-1.12.2-0.5.78.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/EnderCore-1.12.2-0.5.78.jar"
+  },
+  {
+    "name": "EnderIO-1.12.2-5.3.72.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/EnderIO-1.12.2-5.3.72.jar"
+  },
+  {
+    "name": "EnderIO-endergy-1.12.2-5.3.72.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/EnderIO-endergy-1.12.2-5.3.72.jar"
+  },
+  {
+    "name": "ExtendedAE-1.12-0.0.1.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ExtendedAE-1.12-0.0.1.jar"
+  },
+  {
+    "name": "findme-1.12.2-1.1.0-8.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/findme-1.12.2-1.1.0-8.jar"
+  },
+  {
+    "name": "FluxNetworks-1.12.2-4.1.1.34.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/FluxNetworks-1.12.2-4.1.1.34.jar"
+  },
+  {
+    "name": "forestry_1.12.2-5.8.2.422.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/forestry_1.12.2-5.8.2.422.jar"
+  },
+  {
+    "name": "geckolib-forge-1.12.2-3.0.31.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/geckolib-forge-1.12.2-3.0.31.jar"
+  },
+  {
+    "name": "gendustry-1.6.5.8-mc1.12.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/gendustry-1.6.5.8-mc1.12.2.jar"
+  },
+  {
+    "name": "Gravitation+Suite-3.1.1.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Gravitation+Suite-3.1.1.jar"
+  },
+  {
+    "name": "HadEnoughItems_1.12.2-4.29.13.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/HadEnoughItems_1.12.2-4.29.13.jar"
+  },
+  {
+    "name": "HUDCaching-1.0-REL.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/HUDCaching-1.0-REL.jar"
+  },
+  {
+    "name": "ic2-tweaker-0.2.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ic2-tweaker-0.2.0.jar"
+  },
+  {
+    "name": "industrialcraft-2-2.8.221-ex112-client.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/industrialcraft-2-2.8.221-ex112-client.jar"
+  },
+  {
+    "name": "ironchest-7.1.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ironchest-7.1.0.jar"
+  },
+  {
+    "name": "ItemBorders-1.12.2-forge-1.2.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ItemBorders-1.12.2-forge-1.2.0.jar"
+  },
+  {
+    "name": "ItemFilters-1.0.3.12.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ItemFilters-1.0.3.12.jar"
+  },
+  {
+    "name": "itemzoom_1.12.2-1.11.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/itemzoom_1.12.2-1.11.jar"
+  },
+  {
+    "name": "JAOPCA-1.12.2-2.2.8.106.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/JAOPCA-1.12.2-2.2.8.106.jar"
+  },
+  {
+    "name": "jeibees-0.9.0.5-mc1.12.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/jeibees-0.9.0.5-mc1.12.2.jar"
+  },
+  {
+    "name": "journeymap-1.12.2-5.7.1.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/journeymap-1.12.2-5.7.1.jar"
+  },
+  {
+    "name": "konkrete_forge_1.6.1_MC_1.12-1.12.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/konkrete_forge_1.6.1_MC_1.12-1.12.2.jar"
+  },
+  {
+    "name": "lazy-ae2-1.12.2-1.1.26.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/lazy-ae2-1.12.2-1.1.26.jar"
+  },
+  {
+    "name": "LegendaryTooltips-1.12.2-1.1.10.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/LegendaryTooltips-1.12.2-1.1.10.jar"
+  },
+  {
+    "name": "libnine-1.12.2-1.2.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/libnine-1.12.2-1.2.0.jar"
+  },
+  {
+    "name": "ltfset-1.0.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ltfset-1.0.0.jar"
+  },
+  {
+    "name": "LunatriusCore-1.12.2-1.2.0.42-universal.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/LunatriusCore-1.12.2-1.2.0.42-universal.jar"
+  },
+  {
+    "name": "mclib-2.4.3-1.12.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/mclib-2.4.3-1.12.2.jar"
+  },
+  {
+    "name": "mixinbooter-10.6.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/mixinbooter-10.6.jar"
+  },
+  {
+    "name": "modtweaker-4.0.19.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/modtweaker-4.0.19.jar"
+  },
+  {
+    "name": "MoreTweaker-1.0.19.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/MoreTweaker-1.0.19.jar"
+  },
+  {
+    "name": "MouseTweaks-2.10.1-mc1.12.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/MouseTweaks-2.10.1-mc1.12.2.jar"
+  },
+  {
+    "name": "MTLib-3.0.7.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/MTLib-3.0.7.jar"
+  },
+  {
+    "name": "mysticallib-1.12.2-1.6.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/mysticallib-1.12.2-1.6.0.jar"
+  },
+  {
+    "name": "Nether-API-v1.3.0-mc1.12.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Nether-API-v1.3.0-mc1.12.2.jar"
+  },
+  {
+    "name": "OnlinePicFrame_v1.4.40_mc1.12.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/OnlinePicFrame_v1.4.40_mc1.12.2.jar"
+  },
+  {
+    "name": "OpenComputers-MC1.12.2-1.8.9a+893f200dc.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/OpenComputers-MC1.12.2-1.8.9a+893f200dc.jar"
+  },
+  {
+    "name": "OpenGlasses-MC1.12.2-2.2-53.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/OpenGlasses-MC1.12.2-2.2-53.jar"
+  },
+  {
+    "name": "OpenModsLib-1.12.2-0.12.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/OpenModsLib-1.12.2-0.12.2.jar"
+  },
+  {
+    "name": "openscreens-1.12.2-1.0.1.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/openscreens-1.12.2-1.0.1.jar"
+  },
+  {
+    "name": "OpenSecurity-1.12.2-1.0-28.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/OpenSecurity-1.12.2-1.0-28.jar"
+  },
+  {
+    "name": "Ore+Visual+Detector-2.0.1.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Ore+Visual+Detector-2.0.1.jar"
+  },
+  {
+    "name": "ProbeZS-1.18.7.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ProbeZS-1.18.7.jar"
+  },
+  {
+    "name": "randompatches-1.12.2-1.21.0.3.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/randompatches-1.12.2-1.21.0.3.jar"
+  },
+  {
+    "name": "randomtweaks-1.12.2-2.8.0.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/randomtweaks-1.12.2-2.8.0.2.jar"
+  },
+  {
+    "name": "random_complement-1.5.3.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/random_complement-1.5.3.jar"
+  },
+  {
+    "name": "Red-Core-MC-1.7-1.12-0.5.1.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Red-Core-MC-1.7-1.12-0.5.1.jar"
+  },
+  {
+    "name": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/RedstoneFlux-1.12-2.1.1.1-universal.jar"
+  },
+  {
+    "name": "requious-0.13.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/requious-0.13.jar"
+  },
+  {
+    "name": "ResourceLoader-MC1.12.1-1.5.3.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ResourceLoader-MC1.12.1-1.5.3.jar"
+  },
+  {
+    "name": "ResourcesRadar-1.0.1.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ResourcesRadar-1.0.1.jar"
+  },
+  {
+    "name": "scalingguis-1.12.2-1.0.3.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/scalingguis-1.12.2-1.0.3.0.jar"
+  },
+  {
+    "name": "scannable-1.6.3.26.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/scannable-1.6.3.26.jar"
+  },
+  {
+    "name": "Schematica-1.12.2-1.8.0.169-universal.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Schematica-1.12.2-1.8.0.169-universal.jar"
+  },
+  {
+    "name": "sonarcore-1.12.2-5.0.19-20.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/sonarcore-1.12.2-5.0.19-20.jar"
+  },
+  {
+    "name": "speedyhoppers-1.1.19.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/speedyhoppers-1.1.19.jar"
+  },
+  {
+    "name": "Stackie-1.12.2-1.6.0.48-universal.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Stackie-1.12.2-1.6.0.48-universal.jar"
+  },
+  {
+    "name": "The.last.life.of.Darkness-1.0.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/The.last.life.of.Darkness-1.0.0.jar"
+  },
+  {
+    "name": "TheOneProbe-CE-1.12-1.3.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/TheOneProbe-CE-1.12-1.3.2.jar"
+  },
+  {
+    "name": "ThermalCultivation-1.12.2-0.3.6.1-universal.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ThermalCultivation-1.12.2-0.3.6.1-universal.jar"
+  },
+  {
+    "name": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ThermalExpansion-1.12.2-5.5.7.1-universal.jar"
+  },
+  {
+    "name": "ThermalFoundation-1.12.2-2.6.6.1-universal.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ThermalFoundation-1.12.2-2.6.6.1-universal.jar"
+  },
+  {
+    "name": "ThermalInnovation-1.12.2-0.3.6.1-universal.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/ThermalInnovation-1.12.2-0.3.6.1-universal.jar"
+  },
+  {
+    "name": "topaddons-1.12.2-1.13.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/topaddons-1.12.2-1.13.0.jar"
+  },
+  {
+    "name": "TreeChopper-1.12.2-1.2.4.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/TreeChopper-1.12.2-1.2.4.jar"
+  },
+  {
+    "name": "UniDict-1.12.2-2.9.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/UniDict-1.12.2-2.9.2.jar"
+  },
+  {
+    "name": "Unseens.Nether.Backport.-.0.6.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Unseens.Nether.Backport.-.0.6.jar"
+  },
+  {
+    "name": "VariedCommodities_1.12.2-.31Mar23.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/VariedCommodities_1.12.2-.31Mar23.jar"
+  },
+  {
+    "name": "WanionLib-1.12.2-2.2.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/WanionLib-1.12.2-2.2.jar"
+  },
+  {
+    "name": "WorldEdit-CUI-FE3-1.12.2-3.0.9.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/WorldEdit-CUI-FE3-1.12.2-3.0.9.jar"
+  },
+  {
+    "name": "WrapUp-1.12-1.1.3.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/WrapUp-1.12-1.1.3.jar"
+  },
+  {
+    "name": "Xtones-1.0.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/Xtones-1.0.jar"
+  },
+  {
+    "name": "zenrecipereloading-1.4.5.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/zenrecipereloading-1.4.5.jar"
+  },
+  {
+    "name": "zenutils-1.20.5.jar",
+    "url": "https://github.com/Theuselessman2/ocxmods/releases/download/v1.0/zenutils-1.20.5.jar"
   }
 ]
